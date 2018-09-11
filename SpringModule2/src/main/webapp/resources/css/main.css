@@ -1,0 +1,16 @@
+h1, h2, h3{
+	text-align: center;
+}
+
+.error{
+	color: red;
+}
+
+.success{
+	color: green;
+}
+
+.global-error{
+	color: red;
+	font-size: medium;
+}
